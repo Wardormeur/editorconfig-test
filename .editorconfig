@@ -1,0 +1,14 @@
+root = true
+
+[*]
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+indent_style = space
+indent_size = -1
+input_style = textarea
+read_only = true
+tabindex = 2
+cursor_blink_rate = 2000
+cursor_height = 2
